@@ -5,13 +5,13 @@ A Simple QR Code Generator for testing QR Payment.
 ## Project Setup
 
 ```sh
-npm install
+ly_sokheng@wing
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+https://nugt.net/s/pmckW9i
 ```
 
 ### Type-Check, Compile and Minify for Production
